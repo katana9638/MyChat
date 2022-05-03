@@ -7,6 +7,7 @@ Usage
 Activate chat server
 
 ```python server.py```
+
 Activate chat client
 
 ```python client.py```
